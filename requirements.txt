@@ -1,0 +1,11 @@
+ipykernel
+scikit-image
+scikit-learn
+numpy
+matplotlib
+scipy
+tensorflow
+keras
+Pillow
+opencv-python 
+opencv-python-headless
