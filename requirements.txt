@@ -9,3 +9,4 @@ keras
 Pillow
 opencv-python 
 opencv-python-headless
+torchvision
