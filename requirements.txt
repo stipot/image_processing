@@ -9,3 +9,5 @@ keras
 Pillow
 opencv-python 
 opencv-python-headless
+face_recognition
+annoy
